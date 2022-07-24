@@ -1,0 +1,78 @@
+6/30/22 4:16pm PST
+
+juno 
+    price: $2.44
+    apy: 122.56%
+    cost to get in the set: $67020.23
+    monthly income: $6844.95
+osmo 
+    price: $0.76
+    apy: 40.49%
+    cost to get in the set: $97226.43
+    monthly income: $3280.3
+evmos 
+    price: $1.94
+    apy: 51218.91%
+    cost to get in the set: $30985.28
+    monthly income: $1322526.97
+cosmos 
+    price: $7.29
+    apy: 20.73%
+    cost to get in the set: $258552.47
+    monthly income: $4465.58
+akash 
+    price: $0.23
+    apy: 24.07%
+    cost to get in the set: $7705.11
+    monthly income: $154.52
+stargaze 
+    price: $0.02
+    apy: 82.81%
+    cost to get in the set: $18654.07
+    monthly income: $1287.35
+umee 
+    price: $0.02
+    apy: 67.42%
+    cost to get in the set: $24983.69
+    monthly income: $1403.67
+secret 
+    price: $0.89
+    apy: 26.32%
+    cost to get in the set: $35854.76
+    monthly income: $786.33
+terra 
+    price: $2.07
+    apy: 15.38%
+    cost to get in the set: $606303.0
+    monthly income: $7771.43
+injective 
+    price: $1.21
+    apy: 13.85%
+    cost to get in the set: $12110.89
+    monthly income: $139.74
+sifchain 
+    price: $0.01
+    apy: 263.79%
+    cost to get in the set: $1199.22
+    monthly income: $263.62
+kava 
+    price: $1.77
+    apy: 30.12%
+    cost to get in the set: $16234.04
+    monthly income: $407.51
+comdex 
+    price: $0.2
+    apy: 49.7%
+    cost to get in the set: $3151.71
+    monthly income: $130.54
+cryptoorgchain 
+    price: $0.11
+    apy: 15.64%
+    cost to get in the set: $320675.56
+    monthly income: $4178.22
+persistence 
+    price: $0.91
+    apy: 40.37%
+    cost to get in the set: $95934.14
+    monthly income: $3227.73
+
