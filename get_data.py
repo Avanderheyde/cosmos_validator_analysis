@@ -107,7 +107,9 @@ def fetch():
     terra_set = 292900
     injective_set = 10009
 
-
+    #inflation/bonded rate
+    #query infaltion rate
+    #bonded rate is total supply / sum balance of all validators
     #staking aprs https://www.mintscan.io/
     juno_apr = .8009 
     osmo_apr = .3401

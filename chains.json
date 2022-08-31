@@ -1,0 +1,24 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "White Whale",
+  "chains": [
+    {
+      "name": "juno",
+      "address": "junovaloper1dfeenydr9f2vggp8m7jpalvy8jv7fdndncedrm",
+      "restake": {
+        "address": "",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "terra",
+      "address": "terravaloper1wr0p7dzss74wfmzfqm8r65mk26efg5zhzpm77s",
+      "restake": {
+        "address": "",
+        "run_time": "every 1 hour",
+        "minimum_reward": 10000
+      }
+    }
+  ]
+}
